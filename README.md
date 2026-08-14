@@ -19,4 +19,4 @@ trained on HAM10000.
 - Macro F1: 0.957
 - Perfect F1 on ak and vasc classes
 
-Built by prabjyot singh students as B.Tech final year project.
+Built by prabjyot singh students as B.Tech final year project..
